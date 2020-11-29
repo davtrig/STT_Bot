@@ -1,4 +1,4 @@
-# Speech to Text Bot with the following commands:  
+## Speech to Text Bot with the following commands:  
 Hello  
 How are you  
 What time is it  
