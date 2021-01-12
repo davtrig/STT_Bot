@@ -1,6 +1,7 @@
 ﻿Hello
 How are you
 What time is it
+Ask questions
 Wake up
 Stop talking
 Stop listening

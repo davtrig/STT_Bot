@@ -1,6 +1,6 @@
 ﻿namespace STT_Bot
 {
-    partial class Form1
+    partial class STTForm
     {
         /// <summary>
         /// Required designer variable.
@@ -53,16 +53,16 @@
             this.TimerSpeaking.Interval = 1000;
             this.TimerSpeaking.Tick += new System.EventHandler(this.TimerSpeaking_Tick);
             // 
-            // Form1
+            // STTForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(597, 375);
             this.Controls.Add(this.LstCommands);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "STTForm";
+            this.Text = "STTForm";
+            this.Load += new System.EventHandler(this.STTForm_Load);
             this.ResumeLayout(false);
 
         }
