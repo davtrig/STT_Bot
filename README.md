@@ -6,7 +6,7 @@ Stop talking
 Stop listening  
 Wake up  
 Show commands  
-Hide commands 
+Hide commands   
 Ask questions:
  - Asks "For which of your pets do you want to schedule an appointment?" and depending on your answer, it tells you back which pet you've selected
  
